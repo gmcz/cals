@@ -1,4 +1,4 @@
-import Food from './Food'
+import Food from './components/Food'
 import './App.css'
 
 function App() {
